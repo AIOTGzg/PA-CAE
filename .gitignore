@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+runs/
+*.pth
+*.zip
+XiamenBus/
+*_predictions.csv
+*_predictions.json
